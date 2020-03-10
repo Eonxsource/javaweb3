@@ -1,7 +1,6 @@
 package web1.Reflex;
 
 import web1.domainReflex.Person;
-
 /*反射：框架设计的灵魂
 1.框架：半成品软件。可以在框架的基础上进行软件开发，简化编码
 2.反射：将类的各个组成部分封装为其他对象，这就是反射机制
